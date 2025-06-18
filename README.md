@@ -1,6 +1,12 @@
 # Lab-3-Railway-Reservation
+
+NAME : SWATHI S
+
+REGISTER NUMBER : 212223040220
+
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
+
 ### PROBLEM STATEMENT:
 1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
 passengers, particularly in the commercial airline, railway industries.
@@ -16,20 +22,36 @@ phones.
 5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
+
 ### UML DIAGRAMS:
-### Usecase Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/125afcaa-ae65-412f-86f9-57df222b4ede)
-### Sequence Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/e640dcb6-269a-40cf-883d-8f14b696d1ef)
-### State Chart Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/60dae92a-d5da-4fcb-98fc-6c92f4cad6ad)
-### Activity Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/7d397853-2c02-4a71-bad0-b892596f183f)
-### Class Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/01964e6b-3e0a-45c2-9251-499d3c8134a4)
-### Communication Diagram: 
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/2c6dab4e-130e-4ba3-b63b-3488dfc68683)
-### Package Diagram:
-![image](https://github.com/22002525karthikeyan/Lab-3-Railway-Reservation/assets/118708040/b6c473e8-bd11-48d8-a9c5-18c9ab692c6c)
+
+#### USECASE DIAGRAM :
+
+![RAILWAY USECASE](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/965b7888-82a0-47e8-82ab-0423312b8ff9)
+
+#### CLASS DIAGRAM :
+
+![RAILWAY CLASS](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/0c17aa26-f988-47f9-a57f-d99434e599e2)
+
+#### SEQUENCE DIAGRAM :
+
+![RAILWAY SEQUENCE](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/49a9edc6-b020-42f7-a834-47f6fb8157bc)
+
+#### COMMUNICATION DIAGRAM :
+
+![RAILWAY COMMUNICATION](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/5e16e4ea-c9e2-4b01-825d-a448b49c4cc9)
+
+#### STATECHART DIAGRAM :
+
+![RAILWAY STATECHART](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/53056525-8ca1-4e2f-8807-32e3e5f9b0fc)
+
+#### ACTIVITY DIAGRAM :
+
+![RAILWAY ACTIVITY](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/e87cb837-f97a-4df4-beda-b080d0420b85)
+
+#### PACKAGE DIAGRAM :
+
+![RAILWAY PACKAGE](https://github.com/23005529/Lab-3-Railway-Reservation/assets/139842207/c5aea40c-a796-4982-8917-346a5363ebee)
+
 ### RESULT:
 Thus the project to develop e-ticketing system was developed using Star UML Software.
